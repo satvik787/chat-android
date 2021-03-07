@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="username">UserName</string>
+    <string name="submit">Submit</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">sign up</string>
+    <string name="field_empty">UserName And Password can not be empty</string>
+    <string name="user_profile">User Profile picture</string>
+    <string name="message">Messages</string>
+    <string name="type_msg">Type a message</string>
+    <string name="search">Search</string>
+    <string name="refresh">Refresh</string>
+</resources>
